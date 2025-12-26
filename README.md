@@ -34,7 +34,7 @@ coding and problem-solving skills.
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse IDE](https.img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Featured Projects
@@ -72,9 +72,9 @@ A console-based Java game demonstrating Object-Oriented Programming concepts.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hruthikgowdahk&show_icons=true&theme=tokyonight" alt="Hruthikgowdahk's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hruthikgowdahk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthikgowdahk&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hruthikgowdahk&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Hruthikgowdahk&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🏆 Certifications & Achievements
