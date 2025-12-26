@@ -1,4 +1,4 @@
-# Hi, I'm Hruthikgowda H K — Java Full Stack Developer 🚀
+# Hi, I'm [Hruthikgowda H K](https://github.com/Hruthikgowdahk) — Java Full Stack Developer 🚀
 
 ## 👨‍💻 About Me
 
@@ -60,14 +60,19 @@ A digital prescription management website that allows users to manage prescripti
 - PDF download & print
 - Responsive design (mobile & desktop)
 
-### ❌⭕ Tic Tac Toe – Java Console Game - [https://github.com/Hruthikgowdahk/tic-tac-toe-java](https://github.com/Hruthikgowdahk/tic-tac-toe-java)
-A console-based Java game demonstrating Object-Oriented Programming concepts.
+### ❌⭕ Tic Tac Toe – Java Console Game
+
+🔗 https://github.com/Hruthikgowdahk/tic-tac-toe-java
+
+A console-based Java game developed to demonstrate a strong understanding of Object-Oriented Programming (OOP) concepts.
 
 **Tech Stack:** Core Java
-**Features:**
-- Human vs AI gameplay
-- Win/draw detection
-- OOP concepts (abstraction, inheritance, polymorphism)
+
+**Key Features:**
+
+- Human vs AI gameplay logic
+- Win and draw detection using row, column, and diagonal checks
+- Implementation of OOP concepts including abstraction, inheritance, and polymorphism
 
 ## 📊 GitHub Stats
 
