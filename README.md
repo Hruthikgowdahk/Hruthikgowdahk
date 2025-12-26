@@ -76,20 +76,6 @@ A console-based Java game developed to demonstrate a strong understanding of Obj
 - Win and draw detection using row, column, and diagonal checks
 - Implementation of OOP concepts including abstraction, inheritance, and polymorphism
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hruthikgowdahk&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthikgowdahk&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hruthikgowdahk&theme=tokyonight" />
-</p>
-
 ## 🏆 Certifications & Achievements
 
 - ✅ Java Full Stack Web Development – Tap Academy
