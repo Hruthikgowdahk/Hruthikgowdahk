@@ -84,9 +84,9 @@ A console-based Java game demonstrating Object-Oriented Programming concepts.
 
 ## 📬 Let's Connect
 
-- 🌐 <a href="https://hruthikgowda-portfolio.netlify.app" target="_blank">Portfolio</a>
-- 📧 <a href="mailto:hruthikgowda.hk.1@gmail.com" target="_blank">Email</a>
-- 💼 <a href="https://www.linkedin.com/in/hruthikgowda-h-k" target="_blank">LinkedIn</a>
-- 🐙 <a href="https://github.com/Hruthikgowdahk" target="_blank">GitHub</a>
+- 🌐 <a href="https://hruthikgowda-portfolio.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- 📧 <a href="mailto:hruthikgowda.hk.1@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+- 💼 <a href="https://www.linkedin.com/in/hruthikgowda-h-k" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 🐙 <a href="https://github.com/Hruthikgowdahk" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
