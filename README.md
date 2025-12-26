@@ -39,15 +39,21 @@ coding and problem-solving skills.
 
 ## 🚀 Featured Projects
 
-### 🚗 On Road Vehicle Breakdown Assistance Finder - [https://github.com/Hruthikgowdahk/On-road-vehicle-breakdown-assistance-finder](https://github.com/Hruthikgowdahk/On-road-vehicle-breakdown-assistance-finder)
+### 🚗 On Road Vehicle Breakdown Assistance Finder
+
+🔗 https://github.com/Hruthikgowdahk/On-road-vehicle-breakdown-assistance-finder
+
 A location-based web application designed to help users quickly find nearby mechanics, towing services, and garages during on-road emergencies.
 
 **Tech Stack:** Python | Django | HTML | CSS | SQLite
 
 **Key Features:**
-- Real-time user location tracking
-- Smart suggestions for nearby service providers
-- Display of service provider details including contact number, ratings, and estimated arrival time (ETA)
+
+Real-time user location tracking
+
+Smart suggestions for nearby service providers based on proximity
+
+Display of service provider details including contact number, ratings, and estimated arrival time (ETA)
 
 ### 🏥 MedXpert – Healthcare Management System - [https://github.com/Hruthikgowdahk/MedXpert](https://github.com/Hruthikgowdahk/MedXpert)
 A digital prescription management website that allows users to manage prescriptions online.
