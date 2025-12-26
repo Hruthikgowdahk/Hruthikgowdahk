@@ -49,7 +49,7 @@ A location-based web application designed to help users quickly find nearby mech
 - Smart suggestions for nearby service providers
 - Display of service provider details including contact number, ratings, and estimated arrival time (ETA)
 
-### 🏥 MedXpert – Healthcare Management System
+### 🏥 MedXpert – Healthcare Management System - [https://github.com/Hruthikgowdahk/MedXpert](https://github.com/Hruthikgowdahk/MedXpert)
 A digital prescription management website that allows users to manage prescriptions online.
 
 **Tech Stack:** Python | Django | HTML | CSS | SQLite 
