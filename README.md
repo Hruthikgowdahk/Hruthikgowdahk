@@ -72,15 +72,15 @@ A console-based Java game demonstrating Object-Oriented Programming concepts.
 ## 📊 GitHub Stats
 
 
-[![Hruthikgowdahk's GitHub stats](https.github-readme-stats.vercel.app/api?username=Hruthikgowdahk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Hruthikgowdahk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hruthikgowdahk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthikgowdahk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Hruthikgowdahk's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Hruthikgowdahk&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 Certifications & Achievements
 
-- ✅ [Certification Name] – [Issuing Organization]
-- ✅ [Certification Name] – [Issuing Organization]
-- 🧠 Solved 100+ coding challenges on [Platform like LeetCode/HackerRank]
+- ✅ Java Full Stack Web Development – Tap Academy
+- ✅ NSDC VTU Internship Certification
+- 🏆 Participated in State-Level Hackathon – GMU College, Davangere
 
 ## 📬 Let's Connect
 
