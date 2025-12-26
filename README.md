@@ -89,4 +89,4 @@ A console-based Java game demonstrating Object-Oriented Programming concepts.
 - 💼 <a href="https://www.linkedin.com/in/hruthikgowda-h-k" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 🐙 <a href="https://github.com/Hruthikgowdahk" target="_blank" rel="noopener noreferrer">GitHub</a>
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Learning never stops in software development."
