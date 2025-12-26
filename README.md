@@ -39,10 +39,10 @@ coding and problem-solving skills.
 
 ## 🚀 Featured Projects
 
-### [Project 1 Name] - [Link to Project]
-A full-featured [Project description].
-**Tech Stack:** [Technologies used].
-**Features:** [Key features of the project].
+### 🚗 On Road Vehicle Breakdown Assistance Finder - [https://github.com/Hruthikgowdahk/On-road-vehicle-breakdown-assistance-finder](https://github.com/Hruthikgowdahk/On-road-vehicle-breakdown-assistance-finder)
+A location-based web application that helps users find nearby mechanics, towing services, and garages during emergencies.
+**Tech Stack:** Java, HTML, CSS, JavaScript, SQL, GPS/Maps API.
+**Features:** Real-time location tracking, Nearby service provider suggestions, Contact details, ratings & ETA display.
 
 ### [Project 2 Name] - [Link to Project]
 [Project description].
