@@ -9,13 +9,13 @@ projects involving frontend–backend integration.
 I enjoy converting real-world problems into practical software solutions and continuously improving my 
 coding and problem-solving skills.
 
-- 🔭 I’m currently working on: [Your Project] – A [Project Description].
-- 🌱 I’m currently learning: [Technology you are learning].
-- 🤔 I’m looking for help with: [Something you need help with].
-- 💬 Ask me about: [Topics you can answer questions about].
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about you].
+- 🔭 I’m currently working on: Java & Web-based projects
+- 🌱 I’m currently learning: Advanced Java, Spring Boot, React
+- 🤝 I’m looking for: Entry-level Software Developer / Java Developer role
+- 💬 Ask me about: Java, OOP, HTML, CSS, SQL, JDBC
+- 📫 How to reach me: hruthikgowda.hk.1@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy building projects that solve real-life problems
 
 ## 🛠️ Tech Stack
 
