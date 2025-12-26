@@ -1,8 +1,8 @@
-# Hi, I'm Hruthikgowdahk — [Your Title] 🚀
+# Hi, I'm Hruthikgowda H K — Java Full Stack Developer 🚀
 
 ## 👨‍💻 About Me
 
-I'm a passionate [Your Title] with hands-on experience in designing and building scalable web applications using [Your Technologies]. I love turning complex problems into elegant solutions with clean, efficient, and maintainable code.
+I'm a passionate Java Full Stack Developer with hands-on experience in designing and building scalable web applications using Java, Spring, Hibernate, React, and more. I love turning complex problems into elegant solutions with clean, efficient, and maintainable code.
 
 - 🔭 I’m currently working on: [Your Project] – A [Project Description].
 - 🌱 I’m currently learning: [Technology you are learning].
