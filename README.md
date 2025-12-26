@@ -2,7 +2,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Java Full Stack Developer with hands-on experience in designing and building scalable web applications using Java, Spring, Hibernate, React, and more. I love turning complex problems into elegant solutions with clean, efficient, and maintainable code.
+I'm a motivated Computer Science Engineering graduate with hands-on training in Java Full Stack Web Development. 
+I have a strong foundation in Java, OOP concepts, and web technologies, and experience building real-world 
+projects involving frontend–backend integration.
+
+I enjoy converting real-world problems into practical software solutions and continuously improving my 
+coding and problem-solving skills.
 
 - 🔭 I’m currently working on: [Your Project] – A [Project Description].
 - 🌱 I’m currently learning: [Technology you are learning].
