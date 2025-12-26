@@ -49,10 +49,16 @@ A location-based web application designed to help users quickly find nearby mech
 - Smart suggestions for nearby service providers
 - Display of service provider details including contact number, ratings, and estimated arrival time (ETA)
 
-### [Project 2 Name] - [Link to Project]
-[Project description].
-**Tech Stack:** [Technologies used].
-**Features:** [Key features of the project].
+### 🏥 MedXpert – Healthcare Management System
+A digital prescription management website that allows users to manage prescriptions online.
+
+**Tech Stack:** Python | Django | HTML | CSS | SQLite 
+
+**Features:**
+- Upload prescription images
+- OCR text extraction
+- PDF download & print
+- Responsive design (mobile & desktop)
 
 ### [Project 3 Name] - [Link to Project]
 [Project description].
