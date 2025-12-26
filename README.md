@@ -60,10 +60,14 @@ A digital prescription management website that allows users to manage prescripti
 - PDF download & print
 - Responsive design (mobile & desktop)
 
-### [Project 3 Name] - [Link to Project]
-[Project description].
-**Tech Stack:** [Technologies used].
-**Features:** [Key features of the project].
+### ❌⭕ Tic Tac Toe – Java Console Game - [https://github.com/Hruthikgowdahk/tic-tac-toe-java](https://github.com/Hruthikgowdahk/tic-tac-toe-java)
+A console-based Java game demonstrating Object-Oriented Programming concepts.
+
+**Tech Stack:** Core Java
+**Features:**
+- Human vs AI gameplay
+- Win/draw detection
+- OOP concepts (abstraction, inheritance, polymorphism)
 
 ## 📊 GitHub Stats
 
