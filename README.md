@@ -72,7 +72,7 @@ A console-based Java game demonstrating Object-Oriented Programming concepts.
 ## 📊 GitHub Stats
 
 
-[![Hruthikgowdahk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hruthikgowdahk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Hruthikgowdahk's GitHub stats](https.github-readme-stats.vercel.app/api?username=Hruthikgowdahk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthikgowdahk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Hruthikgowdahk's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Hruthikgowdahk&theme=radical)](https://git.io/streak-stats)
 
@@ -84,9 +84,9 @@ A console-based Java game demonstrating Object-Oriented Programming concepts.
 
 ## 📬 Let's Connect
 
-- 🌐 [Portfolio](https://hruthikgowda-portfolio.netlify.app)
-- 📧 [Email](mailto:hruthikgowda.hk.1@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hruthikgowda-h-k)
-- 🐙 [GitHub](https://github.com/Hruthikgowdahk)
+- 🌐 <a href="https://hruthikgowda-portfolio.netlify.app" target="_blank">Portfolio</a>
+- 📧 <a href="mailto:hruthikgowda.hk.1@gmail.com" target="_blank">Email</a>
+- 💼 <a href="https://www.linkedin.com/in/hruthikgowda-h-k" target="_blank">LinkedIn</a>
+- 🐙 <a href="https://github.com/Hruthikgowdahk" target="_blank">GitHub</a>
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
